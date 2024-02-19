@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucius/ProgrammingAssignments/Class-Code/Set/Set.csproj": {}
+    "/Users/connoraugustine/Class-Code/Set/Set.csproj": {}
   },
   "projects": {
-    "/Users/lucius/ProgrammingAssignments/Class-Code/Node/Node.csproj": {
+    "/Users/connoraugustine/Class-Code/Node/Node.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucius/ProgrammingAssignments/Class-Code/Node/Node.csproj",
+        "projectUniqueName": "/Users/connoraugustine/Class-Code/Node/Node.csproj",
         "projectName": "Node",
-        "projectPath": "/Users/lucius/ProgrammingAssignments/Class-Code/Node/Node.csproj",
-        "packagesPath": "/Users/lucius/.nuget/packages/",
-        "outputPath": "/Users/lucius/ProgrammingAssignments/Class-Code/Node/obj/",
+        "projectPath": "/Users/connoraugustine/Class-Code/Node/Node.csproj",
+        "packagesPath": "/Users/connoraugustine/.nuget/packages/",
+        "outputPath": "/Users/connoraugustine/Class-Code/Node/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lucius/.nuget/NuGet/NuGet.Config"
+          "/Users/connoraugustine/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,35 +58,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lucius/ProgrammingAssignments/Class-Code/Set/Set.csproj": {
+    "/Users/connoraugustine/Class-Code/Set/Set.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucius/ProgrammingAssignments/Class-Code/Set/Set.csproj",
+        "projectUniqueName": "/Users/connoraugustine/Class-Code/Set/Set.csproj",
         "projectName": "Set",
-        "projectPath": "/Users/lucius/ProgrammingAssignments/Class-Code/Set/Set.csproj",
-        "packagesPath": "/Users/lucius/.nuget/packages/",
-        "outputPath": "/Users/lucius/ProgrammingAssignments/Class-Code/Set/obj/",
+        "projectPath": "/Users/connoraugustine/Class-Code/Set/Set.csproj",
+        "packagesPath": "/Users/connoraugustine/.nuget/packages/",
+        "outputPath": "/Users/connoraugustine/Class-Code/Set/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lucius/.nuget/NuGet/NuGet.Config"
+          "/Users/connoraugustine/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/lucius/ProgrammingAssignments/Class-Code/Node/Node.csproj": {
-                "projectPath": "/Users/lucius/ProgrammingAssignments/Class-Code/Node/Node.csproj"
+              "/Users/connoraugustine/Class-Code/Node/Node.csproj": {
+                "projectPath": "/Users/connoraugustine/Class-Code/Node/Node.csproj"
               }
             }
           }
@@ -91,6 +94,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -134,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
